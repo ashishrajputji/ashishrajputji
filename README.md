@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishrajputji
-- 👀 I’m interested in web developement...
-- 🌱 I’m currently learning php and wordpress.
+- 👀 I’m interested in web developement and currently looking for a job as developer...
+- 🌱 I have good knowledge of MERN stack along with Java.
 - 💞️ I’m looking to collaborate on web developement projects .
 - 📫 How to reach me ... you can simply mail me @ ashish.0017.rajput@gmail.com
 
